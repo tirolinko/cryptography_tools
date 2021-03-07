@@ -1,2 +1,2 @@
 # cryptography_tools
-Various scripts used in cryptanalysis of classical text-based cyphers
+Various scripts used in cryptanalysis of classic text-based cyphers
